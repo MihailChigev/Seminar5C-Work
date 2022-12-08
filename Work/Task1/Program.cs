@@ -28,3 +28,27 @@ for (int i = 0; i < array.Length; i++)
 
 }
 Console.WriteLine("Сумма положительных элементов = " + sumPositive + " Сумма отрицательных элементов  = " + sumNegative);
+
+/*
+
+System.Console.WriteLine("задайте размер массива: ");
+int size = int.Parse(Console.ReadLine());
+int leftRange = -10;
+int rightRange = 100;
+int[] array = new int[size];
+
+int[] FillArrayWithRandomNumber(int size, int leftRange, int rightRange)
+{
+Random rand = new Random();
+int[] arr = new int[size];
+for (int i = 0; i < size; i++)
+{
+arr[i] = rand.Next(leftRange, rightRange);
+}
+return arr;
+}
+
+array = FillArrayWithRandomNumber(size, leftRange, rightRange);
+Console.Write("[" + string.Join(", ", array) + "]");
+
+*/

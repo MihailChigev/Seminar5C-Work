@@ -1,0 +1,5 @@
+/home/artem/Рабочий стол/SeminarC#1/SeminarC#5/Work/Task5/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/home/artem/Рабочий стол/SeminarC#1/SeminarC#5/Work/Task5/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Рабочий стол/SeminarC#1/SeminarC#5/Work/Task5/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/home/artem/Рабочий стол/SeminarC#1/SeminarC#5/Work/Task5/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/home/artem/Рабочий стол/SeminarC#1/SeminarC#5/Work/Task5/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
